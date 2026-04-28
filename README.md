@@ -1,10 +1,8 @@
-# GitOps Control Plane 
+### GitOps Control Plane 
 ---
 
 
 
 # Book 8 — Internet-Scale Control Plane & Ledger
 
-Global control plane, consensus, cryptographic policy ledger.
-
--
+- Global control plane, consensus, cryptographic policy ledger.
