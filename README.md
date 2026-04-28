@@ -1,1 +1,1 @@
-# GitOps Control Plane\n
+# GitOps Control Plane\n — Internet-Scale Control Plane & Ledger
