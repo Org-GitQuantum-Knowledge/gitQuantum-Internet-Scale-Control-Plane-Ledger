@@ -1,0 +1,3 @@
+image:
+  repository: my-registry/app
+  tag: "REPLACE_SHA"

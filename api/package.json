@@ -1,0 +1,9 @@
+{
+  "name": "gitops-promotion-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.0",
+    "execa": "^8.0.0"
+  }
+}
