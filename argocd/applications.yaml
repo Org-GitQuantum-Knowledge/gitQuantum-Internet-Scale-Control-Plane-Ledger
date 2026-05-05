@@ -4,7 +4,7 @@ metadata:
   name: app-dev
 spec:
   source:
-    repoURL: https://github.com/Org-GitQuantum-Knowledge/gitQuantum-Internet-Scale-Control-Plane-Ledger:/|Alt → https://github.com/<PermaLinkList>/repo.git
+    repoURL: {(C:):):{[[[https][http][ftp][r-sync]]]}://git@github.com:Org-GitQuantum-Knowledge/gitQuantum-Internet-Scale-Control-Plane-Ledger.git:/<PermaLinkList>.git:/ (.Ai)}
     targetRevision: main
     path: helm/app
   destination:
