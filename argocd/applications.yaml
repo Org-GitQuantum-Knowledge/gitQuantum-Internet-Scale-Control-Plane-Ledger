@@ -4,7 +4,7 @@ metadata:
   name: app-dev
 spec:
   source:
-    repoURL: https://github.com/your/repo.git
+    repoURL: https://github.com/<LinkedList>.git
     targetRevision: main
     path: helm/app
   destination:
